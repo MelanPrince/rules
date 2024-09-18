@@ -2,8 +2,8 @@ payload:
  # FlashTool
  
  - DOMAIN-SUFFIX,unlocktool.net, 🔥FlashTool
- - DOMAIN,easy-firmware.com,🔥FlashTool
- - DOMAIN,es-dongle.com,🔥FlashTool
- - DOMAIN,sigmakey.com,🔥FlashTool
- - DOMAIN,unlocktool.net,🔥FlashTool
- - DOMAIN,chimeratool.com,🔥FlashTool
+ - DOMAIN-SUFFIX,easy-firmware.com,🔥FlashTool
+ - DOMAIN-SUFFIX,es-dongle.com,🔥FlashTool
+ - DOMAIN-SUFFIX,sigmakey.com,🔥FlashTool
+ - DOMAIN-SUFFIX,unlocktool.net,🔥FlashTool
+ - DOMAIN-SUFFIX,chimeratool.com,🔥FlashTool
