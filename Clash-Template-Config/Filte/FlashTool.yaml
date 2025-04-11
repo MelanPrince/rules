@@ -1,9 +1,11 @@
-payload: 
- # FlashTool
- 
- - DOMAIN-SUFFIX,unlocktool.net
- - DOMAIN-SUFFIX,easy-firmware.com
- - DOMAIN-SUFFIX,es-dongle.com
- - DOMAIN-SUFFIX,sigmakey.com
- - DOMAIN-SUFFIX,unlocktool.net
- - DOMAIN-SUFFIX,chimeratool.com
+#FlashTool
+DOMAIN-SUFFIX,unlocktool.net
+DOMAIN-SUFFIX,easy-firmware.com
+DOMAIN-SUFFIX,es-dongle.com
+DOMAIN-SUFFIX,sigmakey.com
+DOMAIN-SUFFIX,unlocktool.net
+DOMAIN-SUFFIX,chimeratool.com
+#必须指定网址
+DOMAIN-SUFFIX, app.swup.update.sony.net,DIRECT
+DOMAIN-SUFFIX,xdaforums.com,🇺🇸 美国
+DOMAIN-SUFFIX,reddit.com,🇺🇸 美国
